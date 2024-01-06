@@ -1,0 +1,41 @@
+/* BlogPage.css */
+
+.blogPage {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .blogPost {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .blogPost h3 {
+    color: #333;
+  }
+  
+  .blogPost p {
+    color: #555;
+  }
+  
+  .readMoreLink {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .readMoreLink:hover {
+    background-color: #0056b3;
+  }
+  
+
+  

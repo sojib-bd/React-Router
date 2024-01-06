@@ -1,0 +1,41 @@
+/* AboutPage.css */
+
+.aboutPage {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .aboutPage h2 {
+    color: #333;
+  }
+  
+  .aboutPage h3 {
+    color: #555;
+    margin-top: 20px;
+  }
+  
+  .aboutPage ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .aboutPage li {
+    margin-bottom: 8px;
+  }
+  
+  .aboutPage pre {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+  }
+  
+  .aboutPage code {
+    font-family: 'Courier New', monospace;
+    color: #333;
+  }
+  
+ 
+  

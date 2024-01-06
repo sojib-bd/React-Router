@@ -1,0 +1,29 @@
+.homePage {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .homePage h5 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .homePage img {
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    margin-bottom: 20px;
+  }
+  
+  .homePage article {
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #270903fa;
+    padding: 10px;
+    text-align: left;
+  }
+  
